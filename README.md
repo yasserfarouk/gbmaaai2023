@@ -1,6 +1,6 @@
 # Supplementary Materials for "Generalized Bargaining Mechanisms" (Submitted to AAAI 2023 Senior Presentations Track)
 
-This folder contains all the code implementing the algorithms described in the paper and all datasets used.
+This folder contains supplementary materials as well as all the code implementing the algorithms described in the paper and all datasets used.
 
 ## Reproducibility and Public Availability
 
@@ -12,6 +12,8 @@ This folder contains all the code implementing the algorithms described in the p
 
 - **`supplementary.pdf`**  Contains proofs and further experimental results and discussions.
 - **`code`**  Implementation of algorithms, negative cases, and experiments.
+    - **`negmas`**  A fork of the NegMAS platform including an implementation of a simplified version of GBMs
+      GBM(1,1,other,.,.,.) under `negmas/negmas/gb` using which AOP, SAOP and TAU are implemented.
 - **`data`**  All the negotiation scenarios used in the experiments.
 
 ### Code
