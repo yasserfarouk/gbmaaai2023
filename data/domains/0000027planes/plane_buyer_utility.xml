@@ -1,0 +1,26 @@
+<utility_space type="any" number_of_issues="3">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Plane">
+    <item index="1" value="Piper" evaluation="0.3333333333333333" />
+    <item index="2" value="Aircraft4" evaluation="0.6666666666666666" />
+    <item index="3" value="Boing747" evaluation="1.0" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Engine">
+    <item index="1" value="Rocket" evaluation="1.0" />
+    <item index="2" value="Jet" evaluation="0.6666666666666666" />
+    <item index="3" value="Turbo" evaluation="0.3333333333333333" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Technology">
+    <item index="1" value="Old radio" evaluation="1.0" />
+    <item index="2" value="Regular computer" evaluation="0.3333333333333333" />
+    <item index="3" value="Super computer" evaluation="0.6666666666666666" />
+</issue>
+<weight index="1" value="0.45">
+</weight>
+<weight index="2" value="0.35">
+</weight>
+<weight index="3" value="0.2">
+</weight>
+</objective>
+<reservation value="0.0" />
+</utility_space>

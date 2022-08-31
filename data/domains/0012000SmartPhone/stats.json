@@ -1,0 +1,188 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.5324,
+  "conflict_mean": 0.5324,
+  "conflict_min": 0.5324,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 12000,
+  "n_ufuns": 2,
+  "name": "0012000SmartPhone",
+  "nash_index": 0,
+  "nash_outcome": [
+    "Apple",
+    "2.4",
+    "Black",
+    "Verizon Wireless",
+    "Android",
+    "Camera"
+  ],
+  "nash_utils": [
+    0.9118019686358197,
+    0.8906872050216256
+  ],
+  "nash_welfare": 1.8024891736574453,
+  "opposition": 0.1404570392771434,
+  "pareto_indices": [
+    421,
+    426,
+    401,
+    424,
+    420,
+    1621,
+    21,
+    429,
+    425,
+    1601,
+    1
+  ],
+  "pareto_outcomes": [
+    [
+      "Apple",
+      "2.8",
+      "Black",
+      "AT and T Mobility",
+      "Android",
+      "Blue tooth"
+    ],
+    [
+      "Apple",
+      "2.8",
+      "Black",
+      "AT and T Mobility",
+      "iOS",
+      "Blue tooth"
+    ],
+    [
+      "Apple",
+      "2.8",
+      "Black",
+      "Verizon Wireless",
+      "Android",
+      "Blue tooth"
+    ],
+    [
+      "Apple",
+      "2.8",
+      "Black",
+      "AT and T Mobility",
+      "Android",
+      "Good Battery"
+    ],
+    [
+      "Apple",
+      "2.8",
+      "Black",
+      "AT and T Mobility",
+      "Android",
+      "Camera"
+    ],
+    [
+      "Apple",
+      "3.6",
+      "Black",
+      "AT and T Mobility",
+      "Android",
+      "Blue tooth"
+    ],
+    [
+      "Apple",
+      "2.4",
+      "Black",
+      "AT and T Mobility",
+      "Android",
+      "Blue tooth"
+    ],
+    [
+      "Apple",
+      "2.8",
+      "Black",
+      "AT and T Mobility",
+      "iOS",
+      "Good Battery"
+    ],
+    [
+      "Apple",
+      "2.8",
+      "Black",
+      "AT and T Mobility",
+      "iOS",
+      "Camera"
+    ],
+    [
+      "Apple",
+      "3.6",
+      "Black",
+      "Verizon Wireless",
+      "Android",
+      "Blue tooth"
+    ],
+    [
+      "Apple",
+      "2.4",
+      "Black",
+      "Verizon Wireless",
+      "Android",
+      "Blue tooth"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.9118019686358197,
+      0.8906872050216256
+    ],
+    [
+      0.9795953914730465,
+      0.7877347887777916
+    ],
+    [
+      0.7737206824935076,
+      0.9790543083877407
+    ],
+    [
+      0.9220042728992964,
+      0.8182464718325051
+    ],
+    [
+      0.9322065771627731,
+      0.803758325194681
+    ],
+    [
+      0.819140330574076,
+      0.9011600508277552
+    ],
+    [
+      0.8082389613903415,
+      0.9116328966338848
+    ],
+    [
+      0.9897976957365232,
+      0.7152940555886711
+    ],
+    [
+      0.9999999999999999,
+      0.700805908950847
+    ],
+    [
+      0.6810590444317636,
+      0.9895271541938703
+    ],
+    [
+      0.670157675248029,
+      0.9999999999999999
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.05845641720516028,
+      0.9999999999999999
+    ],
+    [
+      0.05218553206955304,
+      0.9999999999999999
+    ]
+  ],
+  "year": null
+}

@@ -1,0 +1,256 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.5205520552055205,
+  "conflict_mean": 0.5205520552055205,
+  "conflict_min": 0.5205520552055205,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 56700,
+  "n_ufuns": 2,
+  "name": "0056700Wholesaler",
+  "nash_index": 0,
+  "nash_outcome": [
+    "Baguette",
+    "Apples",
+    "Chocolate bars",
+    "Cheese",
+    "Beans",
+    "Energy Drinks",
+    "Chicken"
+  ],
+  "nash_utils": [
+    0.775,
+    0.7835051546391754
+  ],
+  "nash_welfare": 1.5585051546391755,
+  "opposition": 0.3806632313418392,
+  "pareto_indices": [
+    1262,
+    1172,
+    182,
+    92,
+    722,
+    2342,
+    1352,
+    1298,
+    632,
+    2252,
+    17462,
+    1334,
+    12062,
+    12098,
+    12134
+  ],
+  "pareto_outcomes": [
+    [
+      "Baguette",
+      "Apples",
+      "Popcorn",
+      "Peanut butter",
+      "Beans",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Apples",
+      "Popcorn",
+      "Jam",
+      "Beans",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Apples",
+      "Chocolate bars",
+      "Peanut butter",
+      "Beans",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Apples",
+      "Chocolate bars",
+      "Jam",
+      "Beans",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Apples",
+      "Doughnuts",
+      "Peanut butter",
+      "Beans",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Apples",
+      "Candy",
+      "Peanut butter",
+      "Beans",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Apples",
+      "Popcorn",
+      "Chocolate",
+      "Beans",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Apples",
+      "Popcorn",
+      "Peanut butter",
+      "Leek",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Apples",
+      "Doughnuts",
+      "Jam",
+      "Beans",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Apples",
+      "Candy",
+      "Jam",
+      "Beans",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Melons",
+      "Popcorn",
+      "Peanut butter",
+      "Beans",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Apples",
+      "Popcorn",
+      "Peanut butter",
+      "Spinach",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Pears",
+      "Popcorn",
+      "Peanut butter",
+      "Beans",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Pears",
+      "Popcorn",
+      "Peanut butter",
+      "Leek",
+      "Energy Drinks",
+      "Steak"
+    ],
+    [
+      "Baguette",
+      "Pears",
+      "Popcorn",
+      "Peanut butter",
+      "Spinach",
+      "Energy Drinks",
+      "Steak"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.775,
+      0.7835051546391754
+    ],
+    [
+      0.615,
+      0.9072164948453609
+    ],
+    [
+      0.64,
+      0.8762886597938147
+    ],
+    [
+      0.48000000000000004,
+      1.0000000000000002
+    ],
+    [
+      0.655,
+      0.8247422680412373
+    ],
+    [
+      0.6699999999999999,
+      0.8041237113402064
+    ],
+    [
+      0.675,
+      0.7989690721649487
+    ],
+    [
+      0.8150000000000001,
+      0.6546391752577321
+    ],
+    [
+      0.49500000000000005,
+      0.9484536082474229
+    ],
+    [
+      0.51,
+      0.927835051546392
+    ],
+    [
+      0.835,
+      0.597938144329897
+    ],
+    [
+      0.8650000000000001,
+      0.5515463917525774
+    ],
+    [
+      0.9100000000000001,
+      0.5051546391752578
+    ],
+    [
+      0.9500000000000002,
+      0.3762886597938145
+    ],
+    [
+      1.0,
+      0.2731958762886598
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.13,
+      1.0
+    ],
+    [
+      0.12371134020618559,
+      1.0000000000000002
+    ]
+  ],
+  "year": null
+}

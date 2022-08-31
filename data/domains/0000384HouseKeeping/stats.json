@@ -1,0 +1,188 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.6507301460292059,
+  "conflict_mean": 0.6507301460292059,
+  "conflict_min": 0.6507301460292059,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 384,
+  "n_ufuns": 2,
+  "name": "0000384HouseKeeping",
+  "nash_index": 0,
+  "nash_outcome": [
+    "Husbend",
+    "Husbend",
+    "Husbend",
+    "Husbend",
+    "Husbend"
+  ],
+  "nash_utils": [
+    0.94,
+    0.6900000000000002
+  ],
+  "nash_welfare": 1.6300000000000001,
+  "opposition": 0.2720294101747088,
+  "pareto_indices": [
+    126,
+    124,
+    118,
+    116,
+    108,
+    120,
+    100,
+    104,
+    190,
+    200,
+    8,
+    158
+  ],
+  "pareto_outcomes": [
+    [
+      "Wife",
+      "Husbend",
+      "Wife",
+      "Take-away food",
+      "Both"
+    ],
+    [
+      "Wife",
+      "Husbend",
+      "Wife",
+      "Take-away food",
+      "Husbend"
+    ],
+    [
+      "Wife",
+      "Husbend",
+      "Wife",
+      "Wife",
+      "Both"
+    ],
+    [
+      "Wife",
+      "Husbend",
+      "Wife",
+      "Wife",
+      "Husbend"
+    ],
+    [
+      "Wife",
+      "Husbend",
+      "Husbend",
+      "Take-away food",
+      "Husbend"
+    ],
+    [
+      "Wife",
+      "Husbend",
+      "Wife",
+      "Both",
+      "Husbend"
+    ],
+    [
+      "Wife",
+      "Husbend",
+      "Husbend",
+      "Wife",
+      "Husbend"
+    ],
+    [
+      "Wife",
+      "Husbend",
+      "Husbend",
+      "Both",
+      "Husbend"
+    ],
+    [
+      "Wife",
+      "Both",
+      "Wife",
+      "Take-away food",
+      "Both"
+    ],
+    [
+      "Both",
+      "Husbend",
+      "Husbend",
+      "Both",
+      "Husbend"
+    ],
+    [
+      "Husbend",
+      "Husbend",
+      "Husbend",
+      "Both",
+      "Husbend"
+    ],
+    [
+      "Wife",
+      "Wife",
+      "Wife",
+      "Take-away food",
+      "Both"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.94,
+      0.6900000000000002
+    ],
+    [
+      0.84,
+      0.7800000000000001
+    ],
+    [
+      0.8800000000000001,
+      0.7350000000000001
+    ],
+    [
+      0.78,
+      0.8250000000000001
+    ],
+    [
+      0.7399999999999999,
+      0.86
+    ],
+    [
+      0.7200000000000001,
+      0.8700000000000001
+    ],
+    [
+      0.6799999999999999,
+      0.905
+    ],
+    [
+      0.62,
+      0.9500000000000001
+    ],
+    [
+      0.9849999999999999,
+      0.41
+    ],
+    [
+      0.41000000000000003,
+      0.9800000000000001
+    ],
+    [
+      0.35,
+      1.0
+    ],
+    [
+      1.0,
+      0.33
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.21000000000000002,
+      1.0
+    ],
+    [
+      0.265,
+      1.0
+    ]
+  ],
+  "year": null
+}

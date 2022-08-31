@@ -1,0 +1,76 @@
+{
+  "Agreement Rate": {},
+  "N. Optimality": {},
+  "P. Optimality": {},
+  "Rounds": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": [
+      9.0,
+      0.003772239574473987
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": [
+      8.0,
+      0.0031429285311656034
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": [
+      5.0,
+      0.0017853777699830878
+    ]
+  },
+  "Time": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      0.0,
+      7.62939453125e-06
+    ]
+  },
+  "Utility": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      0.0,
+      0.0002930525201924893
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": [
+      1.0,
+      0.0028734139278525227
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      0.0,
+      0.00043777719457466354
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": [
+      0.0,
+      0.002217721464237049
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": [
+      0.0,
+      0.0014737808438751421
+    ]
+  },
+  "Welfare": {}
+}

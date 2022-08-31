@@ -1,0 +1,82 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.35327635327635326,
+  "conflict_mean": 0.35327635327635326,
+  "conflict_min": 0.35327635327635326,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 27,
+  "n_ufuns": 2,
+  "name": "0000027planes",
+  "nash_index": 0,
+  "nash_outcome": [
+    "Piper",
+    "Rocket",
+    "Old radio"
+  ],
+  "nash_utils": [
+    1.0,
+    0.8166666666666667
+  ],
+  "nash_welfare": 1.8166666666666667,
+  "opposition": 0.16414763002993518,
+  "pareto_indices": [
+    18,
+    9,
+    21,
+    12
+  ],
+  "pareto_outcomes": [
+    [
+      "Boing747",
+      "Rocket",
+      "Old radio"
+    ],
+    [
+      "Aircraft4",
+      "Rocket",
+      "Old radio"
+    ],
+    [
+      "Boing747",
+      "Jet",
+      "Old radio"
+    ],
+    [
+      "Aircraft4",
+      "Jet",
+      "Old radio"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      1.0,
+      0.8166666666666667
+    ],
+    [
+      0.8499999999999999,
+      0.9333333333333333
+    ],
+    [
+      0.8833333333333333,
+      0.8833333333333333
+    ],
+    [
+      0.7333333333333334,
+      1.0
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.3333333333333333,
+      1.0
+    ],
+    [
+      0.3333333333333333,
+      1.0
+    ]
+  ],
+  "year": null
+}

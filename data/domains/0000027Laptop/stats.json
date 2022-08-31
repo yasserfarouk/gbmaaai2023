@@ -1,0 +1,82 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.37606837606837606,
+  "conflict_mean": 0.37606837606837606,
+  "conflict_min": 0.37606837606837606,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 27,
+  "n_ufuns": 2,
+  "name": "0000027Laptop",
+  "nash_index": 0,
+  "nash_outcome": [
+    "Dell",
+    "60 Gb",
+    "19'' LCD"
+  ],
+  "nash_utils": [
+    0.851603495169503,
+    0.9016970507557895
+  ],
+  "nash_welfare": 1.7533005459252924,
+  "opposition": 0.1780027878321504,
+  "pareto_indices": [
+    9,
+    12,
+    18,
+    21
+  ],
+  "pareto_outcomes": [
+    [
+      "Macintosh",
+      "60 Gb",
+      "19'' LCD"
+    ],
+    [
+      "Macintosh",
+      "80 Gb",
+      "19'' LCD"
+    ],
+    [
+      "HP",
+      "60 Gb",
+      "19'' LCD"
+    ],
+    [
+      "HP",
+      "80 Gb",
+      "19'' LCD"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.851603495169503,
+      0.9016970507557895
+    ],
+    [
+      0.7255825178884766,
+      1.0
+    ],
+    [
+      1.0,
+      0.6914270898462445
+    ],
+    [
+      0.8739790227189738,
+      0.7897300390904549
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.35041053657133014,
+      1.0
+    ],
+    [
+      0.36555703059082134,
+      1.0
+    ]
+  ],
+  "year": null
+}

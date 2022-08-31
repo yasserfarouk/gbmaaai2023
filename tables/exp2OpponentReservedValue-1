@@ -1,0 +1,9 @@
+\begin{tabular}{lrr|r|rr|rr|rr|rrrrrrr}
+\toprule
+                           Condition & \multicolumn{3}{l}{Utility} & \multicolumn{2}{c}{Agreement Rate} & \multicolumn{2}{c}{P. Optimality} & \multicolumn{2}{c}{N. Optimality} & \multicolumn{2}{c}{Time} & \multicolumn{2}{c}{Rounds} & \multicolumn{2}{c}{Welfare} &      AR \\
+                                     &    size &    mean &     std &           mean &     std &          mean &     std &          mean &     std &    mean &     std &    mean &     std &    mean &     std &    mean \\
+\midrule
+  TAU$(\infty, 0)$+SCS(AcceptBetter) &      54 & 0.80612 & 0.16884 &        1.00000 & 0.00000 &       1.00000 & 0.00000 &       0.85964 & 0.22030 & 0.20601 & 0.57544 & 0.16868 & 0.16490 & 0.95448 & 0.12218 & 1.00000 \\
+TAU$(\infty, 0)$+SCS(AcceptNotWorse) &      54 & 0.80621 & 0.16890 &        1.00000 & 0.00000 &       1.00000 & 0.00000 &       0.85977 & 0.22037 & 0.21461 & 0.60254 & 0.18258 & 0.17828 & 0.95447 & 0.12218 & 1.00000 \\
+\bottomrule
+\end{tabular}

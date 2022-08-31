@@ -1,0 +1,104 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.5021190716448032,
+  "conflict_mean": 0.5021190716448032,
+  "conflict_min": 0.5021190716448032,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 270,
+  "n_ufuns": 2,
+  "name": "0000270DogChoosing",
+  "nash_index": 0,
+  "nash_outcome": [
+    "Short_fur",
+    "Small",
+    "Calm",
+    "Independent",
+    "White"
+  ],
+  "nash_utils": [
+    0.9872045159416803,
+    0.9637188840198965
+  ],
+  "nash_welfare": 1.9509233999615767,
+  "opposition": 0.03847133724019036,
+  "pareto_indices": [
+    85,
+    70,
+    75,
+    60,
+    25
+  ],
+  "pareto_outcomes": [
+    [
+      "Short_fur",
+      "Big",
+      "Playful",
+      "Needy",
+      "White"
+    ],
+    [
+      "Short_fur",
+      "Big",
+      "Calm",
+      "Needy",
+      "White"
+    ],
+    [
+      "Short_fur",
+      "Big",
+      "Playful",
+      "Independent",
+      "White"
+    ],
+    [
+      "Short_fur",
+      "Big",
+      "Calm",
+      "Independent",
+      "White"
+    ],
+    [
+      "Short_fur",
+      "Small",
+      "Playful",
+      "Needy",
+      "White"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.9872045159416803,
+      0.9637188840198965
+    ],
+    [
+      0.8917826918499836,
+      0.9915084228401112
+    ],
+    [
+      0.9040785600998024,
+      0.9722104611797854
+    ],
+    [
+      0.8086567360081056,
+      1.0000000000000002
+    ],
+    [
+      1.0000000000000002,
+      0.7894084514429924
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.22645789685932105,
+      1.0000000000000002
+    ],
+    [
+      0.25641435733720946,
+      1.0000000000000002
+    ]
+  ],
+  "year": null
+}

@@ -1,0 +1,41 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Furry">
+    <item index="1" value="Short_fur" evaluation="1.2267968448088953" />
+    <item index="2" value="Medium_fur" evaluation="0.7010267684622259" />
+    <item index="3" value="Long_fur" evaluation="0.17525669211555647" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Size">
+    <item index="1" value="Small" evaluation="1.0515401526933388" />
+    <item index="2" value="Medium" evaluation="0.8762834605777824" />
+    <item index="3" value="Big" evaluation="0.8762834605777824" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Calm-Playful">
+    <item index="1" value="Calm" evaluation="0.17525669211555647" />
+    <item index="2" value="Playful" evaluation="0.8762834605777824" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Independent-Needy">
+    <item index="1" value="Independent" evaluation="0.17525669211555647" />
+    <item index="2" value="numb" evaluation="0.17525669211555647" />
+    <item index="3" value="Needy" evaluation="0.5257700763466694" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Color">
+    <item index="1" value="White" evaluation="0.5257700763466694" />
+    <item index="2" value="Black" evaluation="0.5257700763466694" />
+    <item index="3" value="Brown" evaluation="0.5257700763466694" />
+    <item index="4" value="Golden" evaluation="0.5257700763466694" />
+    <item index="5" value="Spotted" evaluation="0.5257700763466694" />
+</issue>
+<weight index="1" value="0.5536629653728226">
+</weight>
+<weight index="2" value="0.07300995987008006">
+</weight>
+<weight index="3" value="0.136117233156466">
+</weight>
+<weight index="4" value="0.23715486934749516">
+</weight>
+<weight index="5" value="5.497225313618862e-05">
+</weight>
+</objective>
+<reservation value="0.0" />
+</utility_space>

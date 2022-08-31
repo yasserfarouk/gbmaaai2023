@@ -1,0 +1,131 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.5696358267716536,
+  "conflict_mean": 0.5696358267716536,
+  "conflict_min": 0.5696358267716536,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 128,
+  "n_ufuns": 2,
+  "name": "0000128Outfit",
+  "nash_index": 0,
+  "nash_outcome": [
+    "T-shirt",
+    "Demin",
+    "sneakers",
+    "hat"
+  ],
+  "nash_utils": [
+    0.8322232080115186,
+    0.9090515373624699
+  ],
+  "nash_welfare": 1.7412747453739885,
+  "opposition": 0.19084201525365516,
+  "pareto_indices": [
+    17,
+    1,
+    113,
+    97,
+    9,
+    49,
+    105,
+    41
+  ],
+  "pareto_outcomes": [
+    [
+      "T-shirt",
+      "classic pants",
+      "sneakers",
+      "sunglasses"
+    ],
+    [
+      "T-shirt",
+      "Demin",
+      "sneakers",
+      "sunglasses"
+    ],
+    [
+      "sweaters",
+      "classic pants",
+      "sneakers",
+      "sunglasses"
+    ],
+    [
+      "sweaters",
+      "Demin",
+      "sneakers",
+      "sunglasses"
+    ],
+    [
+      "T-shirt",
+      "leather pants",
+      "sneakers",
+      "sunglasses"
+    ],
+    [
+      "Blouse",
+      "classic pants",
+      "sneakers",
+      "sunglasses"
+    ],
+    [
+      "sweaters",
+      "leather pants",
+      "sneakers",
+      "sunglasses"
+    ],
+    [
+      "Blouse",
+      "leather pants",
+      "sneakers",
+      "sunglasses"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.8322232080115186,
+      0.9090515373624699
+    ],
+    [
+      0.7222536213576152,
+      0.9999999999999999
+    ],
+    [
+      0.8427985462364904,
+      0.8548157417585456
+    ],
+    [
+      0.7328289595825869,
+      0.9457642043960756
+    ],
+    [
+      0.9788493235500566,
+      0.5907319181311145
+    ],
+    [
+      0.853373884461462,
+      0.6921083549467724
+    ],
+    [
+      0.9894246617750283,
+      0.5364961225271901
+    ],
+    [
+      1.0,
+      0.37378873571541693
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.1421674856942469,
+      1.0
+    ],
+    [
+      0.14309484358572908,
+      0.9999999999999999
+    ]
+  ],
+  "year": null
+}

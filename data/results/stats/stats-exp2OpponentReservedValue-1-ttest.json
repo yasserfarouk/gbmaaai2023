@@ -1,0 +1,27 @@
+{
+  "Agreement Rate": {},
+  "N. Optimality": {},
+  "P. Optimality": {},
+  "Rounds": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      -5.711537882192061,
+      2.5454654162154225e-05
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      -5.730430312833513,
+      2.450760118321296e-05
+    ]
+  },
+  "Time": {
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      -6.243977861662526,
+      8.901673270411737e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      -6.266902655242626,
+      8.515173037961786e-06
+    ]
+  },
+  "Utility": {},
+  "Welfare": {}
+}

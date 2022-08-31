@@ -1,0 +1,42 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Price">
+    <item index="1" value="1 million $" evaluation="1.015228426395939" />
+    <item index="2" value="2.5 million $" evaluation="0.9137055837563451" />
+    <item index="3" value="5 million $" evaluation="0.8121827411167513" />
+    <item index="4" value="8 million $" evaluation="0.8121827411167513" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="IP">
+    <item index="1" value="IS receives all IP" evaluation="1.015228426395939" />
+    <item index="2" value="IS receives the patents, industrial design rights and trade secrets" evaluation="0.40609137055837563" />
+    <item index="3" value="BI-Tech founders maintain all IP" evaluation="0.9137055837563451" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Stocks">
+    <item index="1" value="BI-Tech founders get 2%" evaluation="0.5076142131979695" />
+    <item index="2" value="BI-Tech founders get 2% + jobs at IS" evaluation="1.015228426395939" />
+    <item index="3" value="BI-Tech founders get 5%" evaluation="0.40609137055837563" />
+    <item index="4" value="BI-Tech founders get 5% + jobs " evaluation="0.7106598984771574" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="EmployeeAgreements">
+    <item index="1" value="salary raise of 15%" evaluation="0.6091370558375635" />
+    <item index="2" value="same conditions" evaluation="0.6091370558375635" />
+    <item index="3" value="private contracts" evaluation="0.7106598984771574" />
+    <item index="4" value="half fired and half private contracts" evaluation="0.30456852791878175" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Legal Liability">
+    <item index="1" value="past activities remains with Bi-Tech" evaluation="1.015228426395939" />
+    <item index="2" value="IS liable for all activities" evaluation="0.7106598984771574" />
+</issue>
+<weight index="1" value="0.3">
+</weight>
+<weight index="2" value="0.3">
+</weight>
+<weight index="3" value="0.15">
+</weight>
+<weight index="4" value="0.05">
+</weight>
+<weight index="5" value="0.2">
+</weight>
+</objective>
+<reservation value="0.050761421319796954" />
+</utility_space>

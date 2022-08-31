@@ -1,0 +1,132 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.7047619047619048,
+  "conflict_mean": 0.7047619047619048,
+  "conflict_min": 0.7047619047619048,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 36,
+  "n_ufuns": 2,
+  "name": "0000036DefensiveCharms",
+  "nash_index": 0,
+  "nash_outcome": [
+    "Age Line",
+    "Protego",
+    "Cave Inimicum"
+  ],
+  "nash_utils": [
+    0.7200000000000001,
+    0.8297872340425532
+  ],
+  "nash_welfare": 1.5497872340425531,
+  "opposition": 0.32121008188472405,
+  "pareto_indices": [
+    32,
+    29,
+    26,
+    20,
+    25,
+    8,
+    5,
+    27,
+    24
+  ],
+  "pareto_outcomes": [
+    [
+      "Impervius",
+      "Protego Duo",
+      "Muffliato"
+    ],
+    [
+      "Impervius",
+      "Protego Maxima",
+      "Muffliato"
+    ],
+    [
+      "Impervius",
+      "Protego",
+      "Muffliato"
+    ],
+    [
+      "Salvio Hexia",
+      "Protego Duo",
+      "Muffliato"
+    ],
+    [
+      "Impervius",
+      "Protego",
+      "Colloportus"
+    ],
+    [
+      "Age Line",
+      "Protego Duo",
+      "Muffliato"
+    ],
+    [
+      "Age Line",
+      "Protego Maxima",
+      "Muffliato"
+    ],
+    [
+      "Impervius",
+      "Protego Maxima",
+      "Cave Inimicum"
+    ],
+    [
+      "Impervius",
+      "Protego",
+      "Cave Inimicum"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.7200000000000001,
+      0.8297872340425532
+    ],
+    [
+      0.78,
+      0.7659574468085106
+    ],
+    [
+      0.8400000000000001,
+      0.7021276595744681
+    ],
+    [
+      0.4700000000000001,
+      0.8936170212765957
+    ],
+    [
+      0.9,
+      0.43617021276595747
+    ],
+    [
+      0.32000000000000006,
+      1.0
+    ],
+    [
+      0.38,
+      0.9361702127659575
+    ],
+    [
+      0.94,
+      0.3404255319148936
+    ],
+    [
+      1.0,
+      0.2765957446808511
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.26,
+      1.0
+    ],
+    [
+      0.2765957446808511,
+      1.0
+    ]
+  ],
+  "year": null
+}

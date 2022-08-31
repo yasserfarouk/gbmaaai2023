@@ -1,0 +1,26 @@
+<utility_space type="any" number_of_issues="3">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Laptop">
+    <item index="1" value="Dell" evaluation="0.6673779973750393" />
+    <item index="2" value="Macintosh" evaluation="1.6684449934375984" />
+    <item index="3" value="HP" evaluation="1.1122966622917323" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Harddisk">
+    <item index="1" value="60 Gb" evaluation="1.1122966622917323" />
+    <item index="2" value="80 Gb" evaluation="1.6684449934375984" />
+    <item index="3" value="120 Gb" evaluation="0.5005334980312796" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="External Monitor">
+    <item index="1" value="19'' LCD" evaluation="0.16684449934375983" />
+    <item index="2" value="20'' LCD" evaluation="0.11122966622917323" />
+    <item index="3" value="23'' LCD" evaluation="0.05561483311458661" />
+</issue>
+<weight index="1" value="0.37808251708013424">
+</weight>
+<weight index="2" value="0.1767567099260568">
+</weight>
+<weight index="3" value="0.4452125771655631">
+</weight>
+</objective>
+<discount_factor value="0.42441038" />
+</utility_space>

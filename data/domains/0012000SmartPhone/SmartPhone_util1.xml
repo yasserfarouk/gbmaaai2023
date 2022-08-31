@@ -1,0 +1,58 @@
+<utility_space type="any" number_of_issues="6">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Maker">
+    <item index="1" value="Apple" evaluation="2.7109363025594972" />
+    <item index="2" value="Samson" evaluation="0.3795310823583296" />
+    <item index="3" value="Sony" evaluation="1.6265617815356983" />
+    <item index="4" value="Black Berry" evaluation="0.5421872605118995" />
+    <item index="5" value="Nokia" evaluation="0.10843745210237989" />
+    <item index="6" value="HTC" evaluation="0.0" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Screen Size">
+    <item index="1" value="2.4" evaluation="0.16265617815356984" />
+    <item index="2" value="2.8" evaluation="1.7078898706124832" />
+    <item index="3" value="3.0" evaluation="0.6506247126142793" />
+    <item index="4" value="3.2" evaluation="0.05421872605118994" />
+    <item index="5" value="3.6" evaluation="0.32531235630713967" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Color">
+    <item index="1" value="Black" evaluation="1.3554681512797486" />
+    <item index="2" value="White" evaluation="0.6777340756398743" />
+    <item index="3" value="Red" evaluation="0.05421872605118994" />
+    <item index="4" value="Blue" evaluation="1.084374521023799" />
+    <item index="5" value="Silver" evaluation="0.27109363025594974" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Carrier">
+    <item index="1" value="Verizon Wireless" evaluation="0.27109363025594974" />
+    <item index="2" value="AT and T Mobility" evaluation="0.8674996168190391" />
+    <item index="3" value="Sprint Nextel" evaluation="0.10843745210237989" />
+    <item index="4" value="T-Mobile USA" evaluation="0.5421872605118995" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="OS">
+    <item index="1" value="Android" evaluation="0.10843745210237989" />
+    <item index="2" value="iOS" evaluation="0.5421872605118995" />
+    <item index="3" value="Windows Mobile" evaluation="0.05421872605118994" />
+    <item index="4" value="Black Berry" evaluation="0.16265617815356984" />
+</issue>
+<issue index="6" etype="discrete" type="discrete" vtype="discrete" name=" Accessory">
+    <item index="1" value="Camera" evaluation="0.1897655411791648" />
+    <item index="2" value="Blue tooth" evaluation="0.08132808907678492" />
+    <item index="3" value="Water Proof" evaluation="0.10843745210237989" />
+    <item index="4" value="Infrared communication" evaluation="0.02710936302559497" />
+    <item index="5" value="Good Battery" evaluation="0.13554681512797487" />
+</issue>
+<weight index="1" value="0.05927842911713837">
+</weight>
+<weight index="2" value="0.06702093524810457">
+</weight>
+<weight index="3" value="0.29771280656992694">
+</weight>
+<weight index="4" value="0.23152230066977317">
+</weight>
+<weight index="5" value="0.1562961447425481">
+</weight>
+<weight index="6" value="0.18816938365250893">
+</weight>
+</objective>
+<discount_factor value="0.87" />
+</utility_space>

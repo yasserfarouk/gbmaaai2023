@@ -1,0 +1,78 @@
+<negotiation_template>
+<utility_space number_of_issues="6">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="Stoves" type="discrete" vtype="discrete">
+        <item index="1" value="Ceramic" cost="0" description="Ceramic">
+        </item>
+        <item index="2" value="Electrical" cost="0" description="Electrical">
+        </item>
+        <item index="3" value="Induction" cost="0" description="Induction">
+        </item>
+        <item index="4" value="Gas" cost="0" description="Gas">
+        </item>
+        <item index="5" value="Hybrid" cost="0" description="Hybrid">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="Refrigerator" type="discrete" vtype="discrete">
+        <item index="1" value="Traditional" cost="0" description="Traditional">
+        </item>
+        <item index="2" value="Side-by-side" cost="0" description="Side-by-side">
+        </item>
+        <item index="3" value="Top-refrigerator/bottom freezer" cost="0" description="Top-refrigerator/bottom freezer">
+        </item>
+        <item index="4" value="French-door" cost="0" description="French-door">
+        </item>
+        <item index="5" value="Four-door French-door" cost="0" description="Four-door French-door">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="Cabinets" type="discrete" vtype="discrete">
+        <item index="1" value="Pine" cost="0" description="Pine">
+        </item>
+        <item index="2" value="Maple" cost="0" description="Maple">
+        </item>
+        <item index="3" value="Oak" cost="0" description="Oak">
+        </item>
+        <item index="4" value="Cherry" cost="0" description="Cherry">
+        </item>
+        <item index="5" value="Mahogany" cost="0" description="Mahogany">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="Countertops" type="discrete" vtype="discrete">
+        <item index="1" value="Granite" cost="0" description="Granite">
+        </item>
+        <item index="2" value="Limestone" cost="0" description="Limestone">
+        </item>
+        <item index="3" value="Marble" cost="0" description="Marble">
+        </item>
+        <item index="4" value="Inox" cost="0" description="Inox">
+        </item>
+        <item index="5" value="Acrylic" cost="0" description="Acrylic">
+        </item>
+    </issue>
+    <issue etype="discrete" index="5" name="Lighting spots" type="discrete" vtype="discrete">
+        <item index="1" value="3" cost="0" description="3">
+        </item>
+        <item index="2" value="5" cost="0" description="5">
+        </item>
+        <item index="3" value="10" cost="0" description="10">
+        </item>
+        <item index="4" value="15" cost="0" description="15">
+        </item>
+        <item index="5" value="20" cost="0" description="20">
+        </item>
+    </issue>
+    <issue etype="discrete" index="6" name="Equipment" type="discrete" vtype="discrete">
+        <item index="1" value="Dishwasher" cost="0" description="Dishwasher">
+        </item>
+        <item index="2" value="Coffee machine" cost="0" description="Coffee machine">
+        </item>
+        <item index="3" value="Microwave" cost="0" description="Microwave">
+        </item>
+        <item index="4" value="Water Boiler" cost="0" description="Water Boiler">
+        </item>
+        <item index="5" value="Oven" cost="0" description="Oven">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

@@ -1,0 +1,19 @@
+<utility_space type="any" number_of_issues="2">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Issue1">
+    <item index="1" value="A" evaluation="1.0" />
+    <item index="2" value="B" evaluation="0.2" />
+    <item index="3" value="C" evaluation="0.02" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Issue2">
+    <item index="1" value="X" evaluation="1.0" />
+    <item index="2" value="Y" evaluation="0.2" />
+    <item index="3" value="Z" evaluation="0.02" />
+</issue>
+<weight index="1" value="0.39622042590756595">
+</weight>
+<weight index="2" value="0.603779574092434">
+</weight>
+</objective>
+<discount_factor value="0.05" />
+</utility_space>

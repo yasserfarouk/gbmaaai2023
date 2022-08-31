@@ -1,0 +1,140 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.4165,
+  "conflict_mean": 0.4165,
+  "conflict_min": 0.4165,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 1152,
+  "n_ufuns": 2,
+  "name": "0001152Animal",
+  "nash_index": 0,
+  "nash_outcome": [
+    "Lion",
+    "Eagle",
+    "Crocodile",
+    "Frog",
+    "Human"
+  ],
+  "nash_utils": [
+    0.9110206955648785,
+    0.9350394961375517
+  ],
+  "nash_welfare": 1.8460601917024302,
+  "opposition": 0.1101688870771652,
+  "pareto_indices": [
+    148,
+    152,
+    160,
+    184,
+    928,
+    952,
+    100,
+    104
+  ],
+  "pareto_outcomes": [
+    [
+      "Lion",
+      "Penguin",
+      "Crocodile",
+      "Salamander",
+      "Human"
+    ],
+    [
+      "Lion",
+      "Penguin",
+      "Crocodile",
+      "Newt",
+      "Human"
+    ],
+    [
+      "Lion",
+      "Penguin",
+      "Lizard",
+      "Salamander",
+      "Human"
+    ],
+    [
+      "Lion",
+      "Penguin",
+      "Snake",
+      "Salamander",
+      "Human"
+    ],
+    [
+      "Kangaroo",
+      "Penguin",
+      "Lizard",
+      "Salamander",
+      "Human"
+    ],
+    [
+      "Kangaroo",
+      "Penguin",
+      "Snake",
+      "Salamander",
+      "Human"
+    ],
+    [
+      "Lion",
+      "Pelican",
+      "Crocodile",
+      "Salamander",
+      "Human"
+    ],
+    [
+      "Lion",
+      "Pelican",
+      "Crocodile",
+      "Newt",
+      "Human"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.9110206955648785,
+      0.9350394961375517
+    ],
+    [
+      0.9413312813420196,
+      0.885950987163539
+    ],
+    [
+      0.8254638524859714,
+      0.9803786438788632
+    ],
+    [
+      0.8349701683836279,
+      0.9652655946317593
+    ],
+    [
+      0.7342387318588657,
+      0.9999999999999999
+    ],
+    [
+      0.743745047756522,
+      0.984886950752896
+    ],
+    [
+      0.9696894142228589,
+      0.6850276199436195
+    ],
+    [
+      1.0,
+      0.635939110969607
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.1,
+      1.0
+    ],
+    [
+      0.1,
+      0.9999999999999999
+    ]
+  ],
+  "year": null
+}

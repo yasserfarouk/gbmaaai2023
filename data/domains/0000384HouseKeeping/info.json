@@ -1,0 +1,274 @@
+[
+  {
+    "f_rational": 1.0,
+    "has_rational": true,
+    "max": [
+      1.0,
+      1.0
+    ],
+    "min": [
+      0.21000000000000002,
+      0.265
+    ],
+    "n_rational": 384,
+    "reserved": [
+      0,
+      0
+    ]
+  },
+  {
+    "f_rational": 1.0,
+    "has_rational": true,
+    "max": [
+      1.0,
+      1.0
+    ],
+    "min": [
+      0.21000000000000002,
+      0.265
+    ],
+    "n_rational": 384,
+    "reserved": [
+      0,
+      1
+    ]
+  },
+  {
+    "f_rational": 0.6875,
+    "has_rational": true,
+    "max": [
+      0.94,
+      1.0
+    ],
+    "min": [
+      0.21000000000000002,
+      0.5
+    ],
+    "n_rational": 264,
+    "reserved": [
+      0,
+      5
+    ]
+  },
+  {
+    "f_rational": 0.06510416666666667,
+    "has_rational": true,
+    "max": [
+      0.6799999999999999,
+      1.0
+    ],
+    "min": [
+      0.21000000000000002,
+      0.9000000000000001
+    ],
+    "n_rational": 25,
+    "reserved": [
+      0,
+      9
+    ]
+  },
+  {
+    "f_rational": 1.0,
+    "has_rational": true,
+    "max": [
+      1.0,
+      1.0
+    ],
+    "min": [
+      0.21000000000000002,
+      0.265
+    ],
+    "n_rational": 384,
+    "reserved": [
+      1,
+      0
+    ]
+  },
+  {
+    "f_rational": 1.0,
+    "has_rational": true,
+    "max": [
+      1.0,
+      1.0
+    ],
+    "min": [
+      0.21000000000000002,
+      0.265
+    ],
+    "n_rational": 384,
+    "reserved": [
+      1,
+      1
+    ]
+  },
+  {
+    "f_rational": 0.6875,
+    "has_rational": true,
+    "max": [
+      0.94,
+      1.0
+    ],
+    "min": [
+      0.21000000000000002,
+      0.5
+    ],
+    "n_rational": 264,
+    "reserved": [
+      1,
+      5
+    ]
+  },
+  {
+    "f_rational": 0.06510416666666667,
+    "has_rational": true,
+    "max": [
+      0.6799999999999999,
+      1.0
+    ],
+    "min": [
+      0.21000000000000002,
+      0.9000000000000001
+    ],
+    "n_rational": 25,
+    "reserved": [
+      1,
+      9
+    ]
+  },
+  {
+    "f_rational": 0.7447916666666666,
+    "has_rational": true,
+    "max": [
+      1.0,
+      0.9500000000000001
+    ],
+    "min": [
+      0.51,
+      0.265
+    ],
+    "n_rational": 286,
+    "reserved": [
+      5,
+      0
+    ]
+  },
+  {
+    "f_rational": 0.7447916666666666,
+    "has_rational": true,
+    "max": [
+      1.0,
+      0.9500000000000001
+    ],
+    "min": [
+      0.51,
+      0.265
+    ],
+    "n_rational": 286,
+    "reserved": [
+      5,
+      1
+    ]
+  },
+  {
+    "f_rational": 0.4453125,
+    "has_rational": true,
+    "max": [
+      0.94,
+      0.9500000000000001
+    ],
+    "min": [
+      0.51,
+      0.5
+    ],
+    "n_rational": 171,
+    "reserved": [
+      5,
+      5
+    ]
+  },
+  {
+    "f_rational": 0.015625,
+    "has_rational": true,
+    "max": [
+      0.6799999999999999,
+      0.9500000000000001
+    ],
+    "min": [
+      0.51,
+      0.9000000000000001
+    ],
+    "n_rational": 6,
+    "reserved": [
+      5,
+      9
+    ]
+  },
+  {
+    "f_rational": 0.0234375,
+    "has_rational": true,
+    "max": [
+      1.0,
+      0.6900000000000002
+    ],
+    "min": [
+      0.9,
+      0.28500000000000003
+    ],
+    "n_rational": 9,
+    "reserved": [
+      9,
+      0
+    ]
+  },
+  {
+    "f_rational": 0.0234375,
+    "has_rational": true,
+    "max": [
+      1.0,
+      0.6900000000000002
+    ],
+    "min": [
+      0.9,
+      0.28500000000000003
+    ],
+    "n_rational": 9,
+    "reserved": [
+      9,
+      1
+    ]
+  },
+  {
+    "f_rational": 0.0026041666666666665,
+    "has_rational": true,
+    "max": [
+      0.94,
+      0.6900000000000002
+    ],
+    "min": [
+      0.94,
+      0.6900000000000002
+    ],
+    "n_rational": 1,
+    "reserved": [
+      9,
+      5
+    ]
+  },
+  {
+    "f_rational": 0.0,
+    "has_rational": false,
+    "max": [
+      0.9,
+      0.9
+    ],
+    "min": [
+      0.9,
+      0.9
+    ],
+    "n_rational": 0,
+    "reserved": [
+      9,
+      9
+    ]
+  }
+]

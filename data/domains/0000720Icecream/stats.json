@@ -1,0 +1,120 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.4361180590295148,
+  "conflict_mean": 0.4361180590295148,
+  "conflict_min": 0.4361180590295148,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 720,
+  "n_ufuns": 2,
+  "name": "0000720Icecream",
+  "nash_index": 0,
+  "nash_outcome": [
+    "10",
+    "one",
+    "waffle",
+    "chocolate"
+  ],
+  "nash_utils": [
+    0.9207099465369073,
+    0.987961136784793
+  ],
+  "nash_welfare": 1.9086710833217002,
+  "opposition": 0.08019879553767995,
+  "pareto_indices": [
+    140,
+    131,
+    68,
+    32,
+    59,
+    23,
+    113
+  ],
+  "pareto_outcomes": [
+    [
+      "10",
+      "parfait",
+      "cup",
+      "caramel"
+    ],
+    [
+      "10",
+      "parfait",
+      "sandwiched",
+      "caramel"
+    ],
+    [
+      "10",
+      "two",
+      "cup",
+      "caramel"
+    ],
+    [
+      "10",
+      "one",
+      "cup",
+      "caramel"
+    ],
+    [
+      "10",
+      "two",
+      "sandwiched",
+      "caramel"
+    ],
+    [
+      "10",
+      "one",
+      "sandwiched",
+      "caramel"
+    ],
+    [
+      "10",
+      "parfait",
+      "waffle",
+      "caramel"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.9207099465369073,
+      0.987961136784793
+    ],
+    [
+      0.980177486634227,
+      0.9130541474741056
+    ],
+    [
+      0.8776845752780298,
+      0.9939805683923965
+    ],
+    [
+      0.8633427848584039,
+      0.9999999999999998
+    ],
+    [
+      0.9371521153753494,
+      0.9190735790817091
+    ],
+    [
+      0.9228103249557235,
+      0.9250930106893124
+    ],
+    [
+      1.0000000000000002,
+      0.8381471581634183
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.19003403320604756,
+      1.0000000000000002
+    ],
+    [
+      0.23371681360994834,
+      0.9999999999999998
+    ]
+  ],
+  "year": null
+}

@@ -1,0 +1,76 @@
+<negotiation_template>
+<utility_space number_of_issues="6">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="Maker" type="discrete" vtype="discrete">
+        <item index="1" value="Apple" cost="0" description="Apple">
+        </item>
+        <item index="2" value="Samson" cost="0" description="Samson">
+        </item>
+        <item index="3" value="Sony" cost="0" description="Sony">
+        </item>
+        <item index="4" value="Black Berry" cost="0" description="Black Berry">
+        </item>
+        <item index="5" value="Nokia" cost="0" description="Nokia">
+        </item>
+        <item index="6" value="HTC" cost="0" description="HTC">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="Screen Size" type="discrete" vtype="discrete">
+        <item index="1" value="2.4" cost="0" description="2.4">
+        </item>
+        <item index="2" value="2.8" cost="0" description="2.8">
+        </item>
+        <item index="3" value="3.0" cost="0" description="3.0">
+        </item>
+        <item index="4" value="3.2" cost="0" description="3.2">
+        </item>
+        <item index="5" value="3.6" cost="0" description="3.6">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="Color" type="discrete" vtype="discrete">
+        <item index="1" value="Black" cost="0" description="Black">
+        </item>
+        <item index="2" value="White" cost="0" description="White">
+        </item>
+        <item index="3" value="Red" cost="0" description="Red">
+        </item>
+        <item index="4" value="Blue" cost="0" description="Blue">
+        </item>
+        <item index="5" value="Silver" cost="0" description="Silver">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="Carrier" type="discrete" vtype="discrete">
+        <item index="1" value="Verizon Wireless" cost="0" description="Verizon Wireless">
+        </item>
+        <item index="2" value="AT and T Mobility" cost="0" description="AT and T Mobility">
+        </item>
+        <item index="3" value="Sprint Nextel" cost="0" description="Sprint Nextel">
+        </item>
+        <item index="4" value="T-Mobile USA" cost="0" description="T-Mobile USA">
+        </item>
+    </issue>
+    <issue etype="discrete" index="5" name="OS" type="discrete" vtype="discrete">
+        <item index="1" value="Android" cost="0" description="Android">
+        </item>
+        <item index="2" value="iOS" cost="0" description="iOS">
+        </item>
+        <item index="3" value="Windows Mobile" cost="0" description="Windows Mobile">
+        </item>
+        <item index="4" value="Black Berry" cost="0" description="Black Berry">
+        </item>
+    </issue>
+    <issue etype="discrete" index="6" name=" Accessory" type="discrete" vtype="discrete">
+        <item index="1" value="Camera" cost="0" description="Camera">
+        </item>
+        <item index="2" value="Blue tooth" cost="0" description="Blue tooth">
+        </item>
+        <item index="3" value="Water Proof" cost="0" description="Water Proof">
+        </item>
+        <item index="4" value="Infrared communication" cost="0" description="Infrared communication">
+        </item>
+        <item index="5" value="Good Battery" cost="0" description="Good Battery">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

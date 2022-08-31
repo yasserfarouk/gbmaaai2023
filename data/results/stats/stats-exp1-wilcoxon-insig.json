@@ -1,0 +1,752 @@
+{
+  "AR": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+AgentK": [
+      0.0,
+      0.019630657257290667
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Boulware": [
+      0.0,
+      0.31731050786291415
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+CUHK": [
+      0.0,
+      0.0026997960632601866
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Caduceus": [
+      0.0,
+      0.0081509715935027
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      0.0,
+      0.0046777349810472576
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      0.0,
+      0.0832645166635504
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+AgentK": [
+      0.0,
+      0.05878172135535886
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Boulware": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+CUHK": [
+      0.0,
+      0.05878172135535886
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Caduceus": [
+      0.0,
+      0.011412036386001651
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+HardHeaded": [
+      0.0,
+      0.0832645166635504
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+NiceTfT": [
+      0.0,
+      0.15729920705028502
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+AgentK": [
+      0.0,
+      0.019630657257290667
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Boulware": [
+      0.0,
+      0.31731050786291415
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+CUHK": [
+      0.0,
+      0.0026997960632601866
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Caduceus": [
+      0.0,
+      0.0081509715935027
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      0.0,
+      0.0046777349810472576
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+MiCRO": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      0.0,
+      0.0832645166635504
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+AgentK": [
+      0.0,
+      0.05878172135535886
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Boulware": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+CUHK": [
+      0.0,
+      0.05878172135535886
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Caduceus": [
+      0.0,
+      0.011412036386001651
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+HardHeaded": [
+      0.0,
+      0.0832645166635504
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+MiCRO": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+NiceTfT": [
+      0.0,
+      0.15729920705028502
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements."
+  },
+  "N. Optimality": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+AgentK": [
+      11.0,
+      0.00918142110309248
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      3.0,
+      0.03569190011680441
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Boulware": [
+      8.0,
+      0.026231237263180107
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+CUHK": [
+      7.0,
+      0.00014495849609375
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Caduceus": [
+      7.0,
+      0.00014495849609375
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      5.0,
+      0.00764908205529392
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      12.0,
+      0.0005340576171875
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+AgentK": [
+      16.0,
+      0.021943664659377984
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      8.0,
+      0.16142946236708333
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Boulware": [
+      9.0,
+      0.032854219928643694
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+CUHK": [
+      3.0,
+      0.0005026300645801942
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Caduceus": [
+      4.0,
+      5.340576171875e-05
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+HardHeaded": [
+      3.0,
+      0.012515318690073973
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": [
+      0.0,
+      0.31731050786291415
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+NiceTfT": [
+      30.0,
+      0.049421966979675956
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+AgentK": [
+      11.0,
+      0.00918142110309248
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      3.0,
+      0.03569190011680441
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Boulware": [
+      8.0,
+      0.026231237263180107
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+CUHK": [
+      7.0,
+      0.00014495849609375
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Caduceus": [
+      7.0,
+      0.00014495849609375
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      5.0,
+      0.00764908205529392
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+MiCRO": [
+      0.0,
+      0.31731050786291415
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      12.0,
+      0.0005340576171875
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+AgentK": [
+      16.0,
+      0.021943664659377984
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      8.0,
+      0.16142946236708333
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Boulware": [
+      9.0,
+      0.032854219928643694
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+CUHK": [
+      3.0,
+      0.0005026300645801942
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Caduceus": [
+      4.0,
+      5.340576171875e-05
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+HardHeaded": [
+      4.0,
+      0.016604878103722735
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+MiCRO": [
+      0.0,
+      0.31731050786291415
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+NiceTfT": [
+      30.0,
+      0.049421966979675956
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": [
+      0.0,
+      0.31731050786291415
+    ]
+  },
+  "P. Optimality": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+AgentK": [
+      0.0,
+      0.007685794055213263
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      0.0,
+      0.10880943004054568
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Boulware": [
+      0.0,
+      0.027707849358079864
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+CUHK": [
+      0.0,
+      0.0033456181158508813
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Caduceus": [
+      0.0,
+      0.011718685599768628
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      0.0,
+      0.011718685599768628
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      0.0,
+      0.007685794055213263
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+AgentK": [
+      0.0,
+      0.011718685599768628
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      0.0,
+      0.06788915486182899
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Boulware": [
+      0.0,
+      0.043114446783075355
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+CUHK": [
+      0.0,
+      0.017960477526078766
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Caduceus": [
+      0.0,
+      0.007685794055213263
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+HardHeaded": [
+      0.0,
+      0.043114446783075355
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+NiceTfT": [
+      0.0,
+      0.027707849358079864
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+AgentK": [
+      0.0,
+      0.007685794055213263
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      0.0,
+      0.10880943004054568
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Boulware": [
+      0.0,
+      0.027707849358079864
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+CUHK": [
+      0.0,
+      0.0033456181158508813
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Caduceus": [
+      0.0,
+      0.011718685599768628
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      0.0,
+      0.011718685599768628
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+MiCRO": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      0.0,
+      0.007685794055213263
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+AgentK": [
+      0.0,
+      0.011718685599768628
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      0.0,
+      0.06788915486182899
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Boulware": [
+      0.0,
+      0.043114446783075355
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+CUHK": [
+      0.0,
+      0.017960477526078766
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Caduceus": [
+      0.0,
+      0.007685794055213263
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+HardHeaded": [
+      0.0,
+      0.043114446783075355
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+MiCRO": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+NiceTfT": [
+      0.0,
+      0.027707849358079864
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements."
+  },
+  "Rounds": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+AgentK": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      2.0,
+      2.288818359375e-05
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Boulware": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+CUHK": [
+      1.0,
+      1.52587890625e-05
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Caduceus": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": [
+      6.0,
+      0.050612432239184685
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      3.0,
+      3.814697265625e-05
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+AgentK": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      3.0,
+      3.814697265625e-05
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Boulware": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+CUHK": [
+      2.0,
+      2.288818359375e-05
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Caduceus": [
+      3.0,
+      3.814697265625e-05
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+HardHeaded": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": [
+      21.0,
+      0.8589549227374824
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+NiceTfT": [
+      10.0,
+      0.00032806396484375
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+AgentK": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      2.0,
+      2.288818359375e-05
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Boulware": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+CUHK": [
+      1.0,
+      1.52587890625e-05
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Caduceus": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+MiCRO": [
+      6.0,
+      0.050612432239184685
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      3.0,
+      3.814697265625e-05
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+AgentK": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      3.0,
+      3.814697265625e-05
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Boulware": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+CUHK": [
+      2.0,
+      2.288818359375e-05
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Caduceus": [
+      3.0,
+      3.814697265625e-05
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+HardHeaded": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+MiCRO": [
+      8.0,
+      0.16142946236708333
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+NiceTfT": [
+      10.0,
+      0.00032806396484375
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": [
+      8.0,
+      0.6001794871405538
+    ]
+  },
+  "Time": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+AgentK": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Boulware": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+CUHK": [
+      2.0,
+      2.288818359375e-05
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Caduceus": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": [
+      63.0,
+      0.34654998779296875
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+AgentK": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Boulware": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+CUHK": [
+      1.0,
+      1.52587890625e-05
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Caduceus": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+HardHeaded": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": [
+      63.0,
+      0.34654998779296875
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+NiceTfT": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+AgentK": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Boulware": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+CUHK": [
+      2.0,
+      2.288818359375e-05
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Caduceus": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+MiCRO": [
+      57.0,
+      0.22875213623046875
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+AgentK": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Boulware": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+CUHK": [
+      1.0,
+      1.52587890625e-05
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Caduceus": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+HardHeaded": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+MiCRO": [
+      57.0,
+      0.22875213623046875
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+NiceTfT": [
+      0.0,
+      7.62939453125e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": [
+      61.0,
+      0.30379486083984375
+    ]
+  },
+  "Welfare": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+AgentK": [
+      16.0,
+      0.02181334648752117
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      12.0,
+      0.40081416938293446
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Boulware": [
+      15.0,
+      0.1095109374886408
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+CUHK": [
+      12.0,
+      0.0005340576171875
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Caduceus": [
+      13.0,
+      0.00067138671875
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      10.0,
+      0.022386358850697105
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": "zero_method 'wilcox' and 'pratt' do not work if x - y is zero for all elements.",
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      13.0,
+      0.00067138671875
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+AgentK": [
+      30.0,
+      0.1577089872370102
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      6.0,
+      0.09289194088370532
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Boulware": [
+      17.0,
+      0.15485982528200376
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+CUHK": [
+      0.0,
+      0.00029247830381213256
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Caduceus": [
+      7.0,
+      0.001000239683091897
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+HardHeaded": [
+      15.0,
+      0.2023283082009374
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": [
+      0.0,
+      0.31731050786291415
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+NiceTfT": [
+      29.0,
+      0.04373288761671472
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+AgentK": [
+      16.0,
+      0.02181334648752117
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      12.0,
+      0.40081416938293446
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Boulware": [
+      15.0,
+      0.1095109374886408
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+CUHK": [
+      12.0,
+      0.0005340576171875
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Caduceus": [
+      13.0,
+      0.00067138671875
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      10.0,
+      0.022386358850697105
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+MiCRO": [
+      0.0,
+      0.31731050786291415
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      13.0,
+      0.00067138671875
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+AgentK": [
+      30.0,
+      0.1577089872370102
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      6.0,
+      0.09289194088370532
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Boulware": [
+      17.0,
+      0.15485982528200376
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+CUHK": [
+      0.0,
+      0.00029247830381213256
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Caduceus": [
+      7.0,
+      0.001000239683091897
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+HardHeaded": [
+      15.0,
+      0.2023283082009374
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+MiCRO": [
+      0.0,
+      0.31731050786291415
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+NiceTfT": [
+      29.0,
+      0.04373288761671472
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": [
+      0.0,
+      0.31731050786291415
+    ]
+  }
+}

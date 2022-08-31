@@ -1,0 +1,64 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 1.0,
+  "conflict_mean": 1.0,
+  "conflict_min": 1.0,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 3,
+  "n_ufuns": 2,
+  "name": "0000003NiceOrDie",
+  "nash_index": 0,
+  "nash_outcome": [
+    "100_16"
+  ],
+  "nash_utils": [
+    0.16,
+    1.0
+  ],
+  "nash_welfare": 1.16,
+  "opposition": 0.84,
+  "pareto_indices": [
+    1,
+    0,
+    2
+  ],
+  "pareto_outcomes": [
+    [
+      "16_100"
+    ],
+    [
+      "100_16"
+    ],
+    [
+      "29_29"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.16,
+      1.0
+    ],
+    [
+      1.0,
+      0.16
+    ],
+    [
+      0.299,
+      0.299
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.16,
+      1.0
+    ],
+    [
+      0.16,
+      1.0
+    ]
+  ],
+  "year": null
+}

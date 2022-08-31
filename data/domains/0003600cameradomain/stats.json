@@ -1,0 +1,201 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.3929,
+  "conflict_mean": 0.3929,
+  "conflict_min": 0.3929,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 3600,
+  "n_ufuns": 2,
+  "name": "0003600cameradomain",
+  "nash_index": 0,
+  "nash_outcome": [
+    "Canon",
+    "Full size",
+    "High end model",
+    "GITZO",
+    "Domke",
+    "Electronic Flash"
+  ],
+  "nash_utils": [
+    0.8778265820725558,
+    0.770147161878066
+  ],
+  "nash_welfare": 1.647973743950622,
+  "opposition": 0.2603049581563554,
+  "pareto_indices": [
+    921,
+    201,
+    925,
+    205,
+    901,
+    181,
+    1,
+    1641,
+    924,
+    1645,
+    2361,
+    1644
+  ],
+  "pareto_outcomes": [
+    [
+      "Nikon",
+      "APS-C",
+      "High end model",
+      "Manfrotto",
+      "Domke",
+      "Battery Grip"
+    ],
+    [
+      "Canon",
+      "APS-C",
+      "High end model",
+      "Manfrotto",
+      "Domke",
+      "Battery Grip"
+    ],
+    [
+      "Nikon",
+      "APS-C",
+      "High end model",
+      "Manfrotto",
+      "Lowepro",
+      "Battery Grip"
+    ],
+    [
+      "Canon",
+      "APS-C",
+      "High end model",
+      "Manfrotto",
+      "Lowepro",
+      "Battery Grip"
+    ],
+    [
+      "Nikon",
+      "APS-C",
+      "High end model",
+      "GITZO",
+      "Domke",
+      "Battery Grip"
+    ],
+    [
+      "Canon",
+      "APS-C",
+      "High end model",
+      "GITZO",
+      "Domke",
+      "Battery Grip"
+    ],
+    [
+      "Canon",
+      "Full size",
+      "High end model",
+      "GITZO",
+      "Domke",
+      "Battery Grip"
+    ],
+    [
+      "Pentax",
+      "APS-C",
+      "High end model",
+      "Manfrotto",
+      "Domke",
+      "Battery Grip"
+    ],
+    [
+      "Nikon",
+      "APS-C",
+      "High end model",
+      "Manfrotto",
+      "Lowepro",
+      "Electronic Flash"
+    ],
+    [
+      "Pentax",
+      "APS-C",
+      "High end model",
+      "Manfrotto",
+      "Lowepro",
+      "Battery Grip"
+    ],
+    [
+      "Sony",
+      "APS-C",
+      "High end model",
+      "Manfrotto",
+      "Domke",
+      "Battery Grip"
+    ],
+    [
+      "Pentax",
+      "APS-C",
+      "High end model",
+      "Manfrotto",
+      "Lowepro",
+      "Electronic Flash"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.8778265820725558,
+      0.770147161878066
+    ],
+    [
+      0.8999511957052221,
+      0.7458537724830647
+    ],
+    [
+      0.7758256059866602,
+      0.8336837187572997
+    ],
+    [
+      0.7979502196193264,
+      0.8093903293622985
+    ],
+    [
+      0.9583536684561574,
+      0.6365335202055595
+    ],
+    [
+      0.9804782820888239,
+      0.6122401308105583
+    ],
+    [
+      1.0,
+      0.49240831581406214
+    ],
+    [
+      0.5570196843988937,
+      0.9308572763373044
+    ],
+    [
+      0.6176996909061331,
+      0.8392898855407616
+    ],
+    [
+      0.45501870831299823,
+      0.9943938332165382
+    ],
+    [
+      0.5736131446233935,
+      0.8561083858911469
+    ],
+    [
+      0.29689279323247114,
+      1.0
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.04278509842199447,
+      1.0
+    ],
+    [
+      0.055594487269329605,
+      1.0
+    ]
+  ],
+  "year": null
+}

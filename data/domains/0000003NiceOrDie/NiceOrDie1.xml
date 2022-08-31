@@ -1,0 +1,12 @@
+<utility_space type="any" number_of_issues="1">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="NiceOrDie">
+    <item index="1" value="100_16" evaluation="1.0" />
+    <item index="2" value="16_100" evaluation="0.16" />
+    <item index="3" value="29_29" evaluation="0.299" />
+</issue>
+<weight index="1" value="1.0">
+</weight>
+</objective>
+<reservation value="0.0" />
+</utility_space>

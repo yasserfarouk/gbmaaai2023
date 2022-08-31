@@ -1,0 +1,20 @@
+<utility_space type="any" number_of_issues="1">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Fifty_Fifty">
+    <item index="1" value="100_0" evaluation="1.0" />
+    <item index="2" value="90_10" evaluation="0.9" />
+    <item index="3" value="80_20" evaluation="0.8" />
+    <item index="4" value="70_30" evaluation="0.7000000000000001" />
+    <item index="5" value="60_40" evaluation="0.6" />
+    <item index="6" value="50_50" evaluation="0.5" />
+    <item index="7" value="40_60" evaluation="0.4" />
+    <item index="8" value="30_70" evaluation="0.3" />
+    <item index="9" value="20_80" evaluation="0.2" />
+    <item index="10" value="10_90" evaluation="0.1" />
+    <item index="11" value="0_100" evaluation="0.0" />
+</issue>
+<weight index="1" value="1.0">
+</weight>
+</objective>
+<discount_factor value="0.25" />
+</utility_space>

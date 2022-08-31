@@ -1,0 +1,35 @@
+<utility_space type="any" number_of_issues="4">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="shirts">
+    <item index="1" value="T-shirt" evaluation="0.03595223102718993" />
+    <item index="2" value="Blouse" evaluation="0.17976115513594967" />
+    <item index="3" value="Polo shirt" evaluation="0.07190446205437986" />
+    <item index="4" value="sweaters" evaluation="0.1078566930815698" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="pants">
+    <item index="1" value="Demin" evaluation="0.539283465407849" />
+    <item index="2" value="leather pants" evaluation="1.7976115513594966" />
+    <item index="3" value="classic pants" evaluation="1.078566930815698" />
+    <item index="4" value="bermuda shorts" evaluation="0.7190446205437987" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="shoes">
+    <item index="1" value="sneakers" evaluation="1.078566930815698" />
+    <item index="2" value="boots" evaluation="0.539283465407849" />
+    <item index="3" value="slipers" evaluation="0.03595223102718993" />
+    <item index="4" value="sandals" evaluation="0.7190446205437987" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="accessories">
+    <item index="1" value="hat" evaluation="0.07190446205437986" />
+    <item index="2" value="sunglasses" evaluation="0.14380892410875973" />
+</issue>
+<weight index="1" value="0.1470748535323689">
+</weight>
+<weight index="2" value="0.20391796468437198">
+</weight>
+<weight index="3" value="0.5495147806753784">
+</weight>
+<weight index="4" value="0.09949240110788082">
+</weight>
+</objective>
+<discount_factor value="0.75" />
+</utility_space>

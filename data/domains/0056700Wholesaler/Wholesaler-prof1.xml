@@ -1,0 +1,68 @@
+<utility_space type="any" number_of_issues="7">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Bread type">
+    <item index="1" value="Baguette" evaluation="1.0" />
+    <item index="2" value="Crackers" evaluation="0.2" />
+    <item index="3" value="Croissants" evaluation="0.1" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Fruit">
+    <item index="1" value="Apples" evaluation="0.1" />
+    <item index="2" value="Bananas" evaluation="0.4" />
+    <item index="3" value="Cherries" evaluation="0.30000000000000004" />
+    <item index="4" value="Grapes" evaluation="0.30000000000000004" />
+    <item index="5" value="Pears" evaluation="1.0" />
+    <item index="6" value="Oranges" evaluation="0.30000000000000004" />
+    <item index="7" value="Melons" evaluation="0.5" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Snacks">
+    <item index="1" value="Chocolate bars" evaluation="0.1" />
+    <item index="2" value="Doughnuts" evaluation="0.2" />
+    <item index="3" value="Popcorn" evaluation="1.0" />
+    <item index="4" value="Potato Chips" evaluation="0.1" />
+    <item index="5" value="Candy" evaluation="0.30000000000000004" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Spreads">
+    <item index="1" value="Cheese" evaluation="0.1" />
+    <item index="2" value="Jam" evaluation="0.2" />
+    <item index="3" value="Peanut butter" evaluation="1.0" />
+    <item index="4" value="Chocolate" evaluation="0.5" />
+    <item index="5" value="Ham" evaluation="0.1" />
+    <item index="6" value="Salami" evaluation="0.30000000000000004" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Vegetables">
+    <item index="1" value="Beans" evaluation="0.1" />
+    <item index="2" value="Broccoli" evaluation="0.2" />
+    <item index="3" value="Leek" evaluation="0.5" />
+    <item index="4" value="Potatoes" evaluation="0.30000000000000004" />
+    <item index="5" value="Spinach" evaluation="1.0" />
+</issue>
+<issue index="6" etype="discrete" type="discrete" vtype="discrete" name="Drinks">
+    <item index="1" value="Energy Drinks" evaluation="1.0" />
+    <item index="2" value="Tea" evaluation="0.2" />
+    <item index="3" value="Coffee" evaluation="0.4" />
+    <item index="4" value="Juice" evaluation="0.30000000000000004" />
+    <item index="5" value="Coca Cola" evaluation="0.9" />
+    <item index="6" value="Beer" evaluation="0.6000000000000001" />
+</issue>
+<issue index="7" etype="discrete" type="discrete" vtype="discrete" name="Meat">
+    <item index="1" value="Chicken" evaluation="0.2" />
+    <item index="2" value="Sausages" evaluation="0.5" />
+    <item index="3" value="Steak" evaluation="1.0" />
+</issue>
+<weight index="1" value="0.1">
+</weight>
+<weight index="2" value="0.15">
+</weight>
+<weight index="3" value="0.15">
+</weight>
+<weight index="4" value="0.2">
+</weight>
+<weight index="5" value="0.1">
+</weight>
+<weight index="6" value="0.05">
+</weight>
+<weight index="7" value="0.25">
+</weight>
+</objective>
+<reservation value="0.05" />
+</utility_space>

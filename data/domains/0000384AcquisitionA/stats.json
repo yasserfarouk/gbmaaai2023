@@ -1,0 +1,248 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.5092,
+  "conflict_mean": 0.5092,
+  "conflict_min": 0.5092,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 384,
+  "n_ufuns": 2,
+  "name": "0000384AcquisitionA",
+  "nash_index": 0,
+  "nash_outcome": [
+    "1 million $",
+    "IS receives all IP",
+    "BI-Tech founders get 2%",
+    "salary raise of 15%",
+    "past activities remains with Bi-Tech"
+  ],
+  "nash_utils": [
+    0.9340101522842639,
+    0.903420523138833
+  ],
+  "nash_welfare": 1.837430675423097,
+  "opposition": 0.11697117316810468,
+  "pareto_indices": [
+    296,
+    297,
+    300,
+    301,
+    360,
+    361,
+    364,
+    365,
+    312,
+    313,
+    8,
+    377,
+    12,
+    381,
+    72,
+    76,
+    24
+  ],
+  "pareto_outcomes": [
+    [
+      "8 million $",
+      "IS receives all IP",
+      "BI-Tech founders get 2% + jobs at IS",
+      "salary raise of 15%",
+      "past activities remains with Bi-Tech"
+    ],
+    [
+      "8 million $",
+      "IS receives all IP",
+      "BI-Tech founders get 2% + jobs at IS",
+      "salary raise of 15%",
+      "IS liable for all activities"
+    ],
+    [
+      "8 million $",
+      "IS receives all IP",
+      "BI-Tech founders get 2% + jobs at IS",
+      "private contracts",
+      "past activities remains with Bi-Tech"
+    ],
+    [
+      "8 million $",
+      "IS receives all IP",
+      "BI-Tech founders get 2% + jobs at IS",
+      "private contracts",
+      "IS liable for all activities"
+    ],
+    [
+      "8 million $",
+      "BI-Tech founders maintain all IP",
+      "BI-Tech founders get 2% + jobs at IS",
+      "salary raise of 15%",
+      "past activities remains with Bi-Tech"
+    ],
+    [
+      "8 million $",
+      "BI-Tech founders maintain all IP",
+      "BI-Tech founders get 2% + jobs at IS",
+      "salary raise of 15%",
+      "IS liable for all activities"
+    ],
+    [
+      "8 million $",
+      "BI-Tech founders maintain all IP",
+      "BI-Tech founders get 2% + jobs at IS",
+      "private contracts",
+      "past activities remains with Bi-Tech"
+    ],
+    [
+      "8 million $",
+      "BI-Tech founders maintain all IP",
+      "BI-Tech founders get 2% + jobs at IS",
+      "private contracts",
+      "IS liable for all activities"
+    ],
+    [
+      "8 million $",
+      "IS receives all IP",
+      "BI-Tech founders get 5% + jobs ",
+      "salary raise of 15%",
+      "past activities remains with Bi-Tech"
+    ],
+    [
+      "8 million $",
+      "IS receives all IP",
+      "BI-Tech founders get 5% + jobs ",
+      "salary raise of 15%",
+      "IS liable for all activities"
+    ],
+    [
+      "1 million $",
+      "IS receives all IP",
+      "BI-Tech founders get 2% + jobs at IS",
+      "salary raise of 15%",
+      "past activities remains with Bi-Tech"
+    ],
+    [
+      "8 million $",
+      "BI-Tech founders maintain all IP",
+      "BI-Tech founders get 5% + jobs ",
+      "salary raise of 15%",
+      "IS liable for all activities"
+    ],
+    [
+      "1 million $",
+      "IS receives all IP",
+      "BI-Tech founders get 2% + jobs at IS",
+      "private contracts",
+      "past activities remains with Bi-Tech"
+    ],
+    [
+      "8 million $",
+      "BI-Tech founders maintain all IP",
+      "BI-Tech founders get 5% + jobs ",
+      "private contracts",
+      "IS liable for all activities"
+    ],
+    [
+      "1 million $",
+      "BI-Tech founders maintain all IP",
+      "BI-Tech founders get 2% + jobs at IS",
+      "salary raise of 15%",
+      "past activities remains with Bi-Tech"
+    ],
+    [
+      "1 million $",
+      "BI-Tech founders maintain all IP",
+      "BI-Tech founders get 2% + jobs at IS",
+      "private contracts",
+      "past activities remains with Bi-Tech"
+    ],
+    [
+      "1 million $",
+      "IS receives all IP",
+      "BI-Tech founders get 5% + jobs ",
+      "salary raise of 15%",
+      "past activities remains with Bi-Tech"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.9340101522842639,
+      0.903420523138833
+    ],
+    [
+      0.8730964467005076,
+      0.9637826961770624
+    ],
+    [
+      0.9390862944162437,
+      0.89738430583501
+    ],
+    [
+      0.8781725888324873,
+      0.9577464788732394
+    ],
+    [
+      0.9035532994923858,
+      0.9195171026156942
+    ],
+    [
+      0.8426395939086294,
+      0.9798792756539235
+    ],
+    [
+      0.9086294416243654,
+      0.9134808853118712
+    ],
+    [
+      0.8477157360406091,
+      0.9738430583501005
+    ],
+    [
+      0.8883248730964466,
+      0.9235412474849095
+    ],
+    [
+      0.8274111675126903,
+      0.9839034205231388
+    ],
+    [
+      0.9949238578680202,
+      0.8028169014084507
+    ],
+    [
+      0.7969543147208121,
+      1.0
+    ],
+    [
+      1.0,
+      0.7967806841046278
+    ],
+    [
+      0.8020304568527918,
+      0.993963782696177
+    ],
+    [
+      0.9644670050761421,
+      0.8189134808853119
+    ],
+    [
+      0.9695431472081217,
+      0.8128772635814889
+    ],
+    [
+      0.9492385786802029,
+      0.8229376257545271
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.583756345177665,
+      1.0
+    ],
+    [
+      0.6921529175050302,
+      1.0
+    ]
+  ],
+  "year": null
+}

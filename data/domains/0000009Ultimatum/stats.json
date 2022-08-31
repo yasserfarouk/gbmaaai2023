@@ -1,0 +1,86 @@
+{
+  "approximate": false,
+  "approximated_by": null,
+  "conflict_max": 0.8055555555555556,
+  "conflict_mean": 0.8055555555555556,
+  "conflict_min": 0.8055555555555556,
+  "conflict_std": 0.0,
+  "continuous": false,
+  "is_anac": false,
+  "n_outcomes": 9,
+  "n_ufuns": 2,
+  "name": "0000009Ultimatum",
+  "nash_index": 0,
+  "nash_outcome": [
+    "A",
+    "X"
+  ],
+  "nash_utils": [
+    0.6117039826105853,
+    0.6175891405859933
+  ],
+  "nash_welfare": 1.2292931231965787,
+  "opposition": 0.5449879471311634,
+  "pareto_indices": [
+    6,
+    0,
+    8,
+    7,
+    3
+  ],
+  "pareto_outcomes": [
+    [
+      "C",
+      "X"
+    ],
+    [
+      "A",
+      "X"
+    ],
+    [
+      "C",
+      "Z"
+    ],
+    [
+      "C",
+      "Y"
+    ],
+    [
+      "B",
+      "X"
+    ]
+  ],
+  "pareto_utils": [
+    [
+      0.6117039826105853,
+      0.6175891405859933
+    ],
+    [
+      1.0,
+      0.05
+    ],
+    [
+      0.02,
+      1.0
+    ],
+    [
+      0.12868032333663812,
+      0.6377160279235726
+    ],
+    [
+      0.6830236592739471,
+      0.07987311266242071
+    ]
+  ],
+  "utility_ranges": [
+    [
+      0.02,
+      1.0
+    ],
+    [
+      0.05,
+      1.0
+    ]
+  ],
+  "year": null
+}

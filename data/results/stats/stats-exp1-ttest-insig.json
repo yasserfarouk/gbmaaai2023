@@ -1,0 +1,806 @@
+{
+  "AR": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+AgentK": [
+      2.758331308670445,
+      0.013431289124686229
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Boulware": [
+      0.9999999999999999,
+      0.331332762038679
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+CUHK": [
+      4.123105625617661,
+      0.0007103270462445622
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Caduceus": [
+      3.289100457295553,
+      0.00433079481893269
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      3.6878177829171546,
+      0.001825488268245913
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      1.8439088914585773,
+      0.08269790631271436
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+AgentK": [
+      2.0513217183267987,
+      0.05597277118167345
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Boulware": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+CUHK": [
+      2.169583789926146,
+      0.04450351877653106
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Caduceus": [
+      3.123580758801789,
+      0.006183875078890302
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+HardHeaded": [
+      1.8439088914585773,
+      0.08269790631271436
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+NiceTfT": [
+      1.457737973711325,
+      0.16313885284404722
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+AgentK": [
+      2.758331308670445,
+      0.013431289124686229
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Boulware": [
+      0.9999999999999999,
+      0.331332762038679
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+CUHK": [
+      4.123105625617661,
+      0.0007103270462445622
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Caduceus": [
+      3.289100457295553,
+      0.00433079481893269
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      3.6878177829171546,
+      0.001825488268245913
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+MiCRO": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      1.8439088914585773,
+      0.08269790631271436
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+AgentK": [
+      2.0513217183267987,
+      0.05597277118167345
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Boulware": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+CUHK": [
+      2.169583789926146,
+      0.04450351877653106
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Caduceus": [
+      3.123580758801789,
+      0.006183875078890302
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+HardHeaded": [
+      1.8439088914585773,
+      0.08269790631271436
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+MiCRO": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+NiceTfT": [
+      1.457737973711325,
+      0.16313885284404722
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": [
+      NaN,
+      Infinity
+    ]
+  },
+  "N. Optimality": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+AgentK": [
+      2.4943675799109526,
+      0.023213790249085545
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      2.149113409271283,
+      0.046320352683713754
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Boulware": [
+      2.4110339546922224,
+      0.027505281773416292
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+CUHK": [
+      4.25561193938116,
+      0.000533628012480883
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Caduceus": [
+      3.7447062142703307,
+      0.0016133632241905908
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      3.220373339730997,
+      0.0050224079188074654
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      3.575082689150463,
+      0.0023316408493821088
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+AgentK": [
+      2.083978317239405,
+      0.05256273477638895
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      1.8168482885179418,
+      0.08691319249227225
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Boulware": [
+      2.1667048772091526,
+      0.04475501737687215
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+CUHK": [
+      4.290970099636752,
+      0.0004944951470840645
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Caduceus": [
+      3.988390504037306,
+      0.0009508269024809887
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+HardHeaded": [
+      1.970261933404916,
+      0.06531972703963579
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": [
+      1.0,
+      0.331332762038679
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+NiceTfT": [
+      2.110785485453212,
+      0.049906056150635245
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+AgentK": [
+      2.4927605239838395,
+      0.023290214028435004
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      2.1360383466438417,
+      0.04751616058255043
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Boulware": [
+      2.4036940114676555,
+      0.027917064378121963
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+CUHK": [
+      4.25364015069753,
+      0.0005359004334785388
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Caduceus": [
+      3.742729824122489,
+      0.0016203018068810626
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      3.218453194657705,
+      0.005043215740579627
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+MiCRO": [
+      -1.0,
+      0.331332762038679
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      3.5714269228092923,
+      0.002350210779951353
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+AgentK": [
+      2.0820119632107086,
+      0.05276259055099657
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      1.804206447263937,
+      0.08894641792118058
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Boulware": [
+      2.1560306693178584,
+      0.04569893913021094
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+CUHK": [
+      4.28811262789341,
+      0.0004975467807678991
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Caduceus": [
+      3.9861836287696137,
+      0.0009553851262817908
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+HardHeaded": [
+      1.9669890301730122,
+      0.06572505031887299
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+MiCRO": [
+      1.0,
+      0.331332762038679
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+NiceTfT": [
+      2.108277272790712,
+      0.05014932918888721
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": [
+      -1.0,
+      0.331332762038679
+    ]
+  },
+  "P. Optimality": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+AgentK": [
+      2.5634289082041497,
+      0.020145002488251577
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      1.0966616238553528,
+      0.2880817040937458
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Boulware": [
+      1.8106752224426086,
+      0.08790086484510386
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+CUHK": [
+      3.8206867605841124,
+      0.0013680100715125825
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Caduceus": [
+      3.168157843210479,
+      0.005619456889334361
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      3.4603396990840047,
+      0.0029903598288035047
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      2.007612617094849,
+      0.0608507869417909
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+AgentK": [
+      1.9686033474879239,
+      0.0655248484093822
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      1.3784197845334192,
+      0.1859452357581734
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Boulware": [
+      1.6491618156952512,
+      0.1174690535270777
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+CUHK": [
+      2.153283964627869,
+      0.04594476871565996
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Caduceus": [
+      2.9983639486536604,
+      0.00808283992385991
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+HardHeaded": [
+      1.8489232234432862,
+      0.08193693634100724
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+NiceTfT": [
+      1.6665233850727614,
+      0.11392582129422446
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+AgentK": [
+      2.5634289082041497,
+      0.020145002488251577
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      1.0966616238553528,
+      0.2880817040937458
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Boulware": [
+      1.8106752224426086,
+      0.08790086484510386
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+CUHK": [
+      3.8206867605841124,
+      0.0013680100715125825
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Caduceus": [
+      3.168157843210479,
+      0.005619456889334361
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      3.4603396990840047,
+      0.0029903598288035047
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+MiCRO": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      2.007612617094849,
+      0.0608507869417909
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+AgentK": [
+      1.9686033474879239,
+      0.0655248484093822
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      1.3784197845334192,
+      0.1859452357581734
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Boulware": [
+      1.6491618156952512,
+      0.1174690535270777
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+CUHK": [
+      2.153283964627869,
+      0.04594476871565996
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Caduceus": [
+      2.9983639486536604,
+      0.00808283992385991
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+HardHeaded": [
+      1.8489232234432862,
+      0.08193693634100724
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+MiCRO": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+NiceTfT": [
+      1.6665233850727614,
+      0.11392582129422446
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": [
+      NaN,
+      Infinity
+    ]
+  },
+  "Rounds": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+AgentK": [
+      -18.238093988297944,
+      1.3432513224357958e-12
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      -6.463798873984982,
+      5.832966747294656e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Boulware": [
+      -35.51176342264865,
+      2.1676526908332157e-17
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+CUHK": [
+      -14.838253695173114,
+      3.6769107041646406e-11
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Caduceus": [
+      -64.33483552883918,
+      9.576973024721046e-22
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      -46.69759042623931,
+      2.1576651998845358e-19
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": [
+      -1.8154451525215112,
+      0.08713682918088948
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      -9.98018711656967,
+      1.5939394982717422e-08
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+AgentK": [
+      -1.8093963688644723,
+      0.08810670657370871
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      -1.4663337092748125,
+      0.1608112700617936
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Boulware": [
+      -1.7567155436089787,
+      0.09696180914999668
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+CUHK": [
+      -1.9191376249179986,
+      0.07191410272688611
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Caduceus": [
+      -1.8509411515610237,
+      0.0816324477247354
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+HardHeaded": [
+      -1.9086052136031433,
+      0.07334433776998603
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": [
+      -0.02411425767469373,
+      0.9810422679993949
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+NiceTfT": [
+      -1.8217139322065143,
+      0.08614159500671437
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+AgentK": [
+      -18.23281306116921,
+      1.3495743944602418e-12
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      -6.472858263549683,
+      5.733036606328108e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Boulware": [
+      -35.42254912835151,
+      2.2611342614439655e-17
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+CUHK": [
+      -14.841226824659822,
+      3.665256451969627e-11
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Caduceus": [
+      -64.54154694869372,
+      9.070594895608024e-22
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      -46.66240109174434,
+      2.1852888882804406e-19
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+MiCRO": [
+      -1.5324313323774588,
+      0.14381391350993006
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      -9.983834427546475,
+      1.5854295863129997e-08
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+AgentK": [
+      -1.8094021390170016,
+      0.08810577687123905
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      -1.4663417659760394,
+      0.16080910133063472
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Boulware": [
+      -1.7567156068317562,
+      0.0969617980730483
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+CUHK": [
+      -1.919143295094246,
+      0.07191333950082475
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Caduceus": [
+      -1.850946890985679,
+      0.0816315831213306
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+HardHeaded": [
+      -1.9086108844579341,
+      0.07334356093044818
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+MiCRO": [
+      -1.2412607616169176,
+      0.23136483497937277
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+NiceTfT": [
+      -1.821719661373979,
+      0.08614069003540903
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": [
+      -0.9067267673018385,
+      0.3772246703551173
+    ]
+  },
+  "Time": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+AgentK": [
+      -2.1832959554509115,
+      0.043323371833888236
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      -2.0025271733939802,
+      0.06144258856096616
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Boulware": [
+      -1.1576437497089977,
+      0.2630161312353472
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+CUHK": [
+      -2.2135630800450765,
+      0.040819696120947255
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Caduceus": [
+      -1.4018611903428546,
+      0.1789513087855691
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      -2.527674339716417,
+      0.02168228603419576
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": [
+      1.320359769086676,
+      0.20421678347461192
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      -1.1930922133528543,
+      0.24921929308849622
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+AgentK": [
+      -15.79308858656944,
+      1.3632627061991536e-11
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      -6.692399440087979,
+      3.784441644861197e-06
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Boulware": [
+      -27.755912119172958,
+      1.3358809337890454e-15
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+CUHK": [
+      -16.86281637948506,
+      4.766930849110106e-12
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Caduceus": [
+      -45.47811739659951,
+      3.371925236038071e-19
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+HardHeaded": [
+      -78.88306377462749,
+      3.026097291094529e-23
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": [
+      1.3094368392454583,
+      0.20780861361754813
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+NiceTfT": [
+      -10.486384415506741,
+      7.684202596534836e-09
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+AgentK": [
+      -2.183343625369153,
+      0.04331931978062509
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      -2.003290389686689,
+      0.06135344196427067
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Boulware": [
+      -1.1639169002945795,
+      0.2605335110659726
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+CUHK": [
+      -2.2140287599893838,
+      0.040782239500955164
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Caduceus": [
+      -1.4018782580392535,
+      0.17894629521163366
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      -2.5275265801523426,
+      0.021688863937440035
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+MiCRO": [
+      1.275445731156828,
+      0.2193058915699762
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      -1.193100417372082,
+      0.2492161649983966
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+AgentK": [
+      -15.804555934820263,
+      1.347548912262714e-11
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      -6.704738547539104,
+      3.6978414943412462e-06
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Boulware": [
+      -27.788645005686643,
+      1.3099171000570482e-15
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+CUHK": [
+      -16.89920365619065,
+      4.604406792427888e-12
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Caduceus": [
+      -45.48805166345948,
+      3.359524533017327e-19
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+HardHeaded": [
+      -79.28999991642168,
+      2.773265424064311e-23
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+MiCRO": [
+      1.2622905782552263,
+      0.22388702086134837
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+NiceTfT": [
+      -10.486283737700317,
+      7.685297637260547e-09
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": [
+      -1.681477283082279,
+      0.11094783784309833
+    ]
+  },
+  "Welfare": {
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+AgentK": [
+      2.7115976020753827,
+      0.014811891049808285
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Atlas3": [
+      1.0380343731076473,
+      0.3137941066531016
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Boulware": [
+      1.637993713313272,
+      0.11979777132715182
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+CUHK": [
+      4.213186131282691,
+      0.0005847468042425132
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+Caduceus": [
+      3.6016777974806797,
+      0.002200875117417098
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      3.53686391900352,
+      0.0025332168902393094
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+MiCRO": [
+      NaN,
+      Infinity
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      2.2730376525636578,
+      0.03628488120308929
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+AgentK": [
+      2.0464258692632114,
+      0.05650096568869217
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Atlas3": [
+      1.29153002241572,
+      0.213804779526974
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Boulware": [
+      1.3971383925717902,
+      0.18034299329250347
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+CUHK": [
+      2.7651128191691363,
+      0.013241528508794021
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+Caduceus": [
+      3.3309967095493542,
+      0.003956185898088723
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+HardHeaded": [
+      1.7829049773951886,
+      0.09246690693523797
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+MiCRO": [
+      -0.9999999999999999,
+      0.331332762038679
+    ],
+    "TAU$(\\infty, 0)$+SCS-AOP(3min)+NiceTfT": [
+      0.9920498621012975,
+      0.3350845896134018
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+AgentK": [
+      2.7117468431693257,
+      0.014807272699592554
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Atlas3": [
+      1.0395073099804482,
+      0.3131285237794749
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Boulware": [
+      1.6383624952110944,
+      0.11972025008950503
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+CUHK": [
+      4.213368082714687,
+      0.0005845173120678733
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+Caduceus": [
+      3.6018459432065146,
+      0.002200072050265195
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+HardHeaded": [
+      3.537019483290278,
+      0.0025323622366796735
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+MiCRO": [
+      1.0000000000000002,
+      0.3313327620386787
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP($2 n_o$)+NiceTfT": [
+      2.2732104101742308,
+      0.03627241724835556
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+AgentK": [
+      2.04658634291848,
+      0.056483581402421996
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Atlas3": [
+      1.293089316315126,
+      0.21327729098246945
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Boulware": [
+      1.3979800309659938,
+      0.18009434481333111
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+CUHK": [
+      2.7652866307172754,
+      0.01323669896940534
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+Caduceus": [
+      3.331163080521404,
+      0.003954764022914481
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+HardHeaded": [
+      1.7830591584759907,
+      0.09244099339143526
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+MiCRO": [
+      -1.0000000000000002,
+      0.3313327620386787
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-AOP(3min)+NiceTfT": [
+      0.9923100346150344,
+      0.3349613385722967
+    ],
+    "TAU$(\\infty, \\infty)$+SCS-TAU$(\\infty, 0)$+SCS": [
+      1.0000000000000002,
+      0.3313327620386787
+    ]
+  }
+}
