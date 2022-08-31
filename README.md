@@ -10,6 +10,7 @@ This folder contains all the code implementing the algorithms described in the p
 
 ## What is included?
 
+- **`supplementary.pdf`**  Contains proofs and further experimental results and discussions.
 - **`code`**  Implementation of algorithms, negative cases, and experiments.
 - **`data`**  All the negotiation scenarios used in the experiments.
 
