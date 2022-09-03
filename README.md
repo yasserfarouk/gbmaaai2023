@@ -1,4 +1,4 @@
-# Supplementary Materials for "Generalized Bargaining Mechanisms" (Submitted to AAAI 2023 Senior Presentations Track)
+# Supplementary Materials for "Generalized Bargaining Mechanisms" (Submitted to AAAI 2023 Senior Member Presentations Track)
 
 This folder contains supplementary materials as well as all the code implementing the algorithms described in the paper and all datasets used.
 
